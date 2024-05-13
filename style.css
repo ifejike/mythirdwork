@@ -1,0 +1,72 @@
+body {
+    padding-top: 60px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 60px;
+}
+
+div {
+    background-color: white;
+    
+}
+
+a {
+    margin-left: 60px;
+    font-family: Cambria, Cochin, Georgia;
+    font-size: large;
+    font-weight: 700;
+    color: black;
+    text-decoration: none;
+}
+
+ #movenav {
+    margin-left: 200px;
+}
+h1 {
+    text-align: center;
+    font-size: 300px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+img {
+    display: block;
+    margin: auto;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+div > #24 {
+    margin-left: 200px;
+}
+video {
+    display: block;
+    margin: auto;
+    margin-bottom: 0px;
+    
+}
+h2 {
+    text-align: center;
+    margin-bottom: 0px;
+    font-size: xx-large;
+}
+#name {
+    margin-left: 55px;
+}
+
+#email {
+    margin-left: 55px;
+}
+#occ {
+    margin-left: 20px;
+}
+#age {
+    margin-left: 65px;
+}
+#submit {
+    margin-left: 150px;
+}
+form {
+    margin-left: 20px;
+}
